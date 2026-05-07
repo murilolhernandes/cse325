@@ -3,7 +3,7 @@
 ## 1. Additional record:
 
 ### Http Post (Create) Request:
-`
+```
 POST {{ContosoPizza_HostAddress}}/pizza/
 Content-Type: application/json
 
@@ -11,10 +11,10 @@ Content-Type: application/json
   "name": "Margherita",
   "isGlutenFree": false
 }
-`
+```
 
 ### Http Response:
-`
+```
 HTTP/1.1 201 Created
 Connection: close
 Content-Type: application/json; charset=utf-8
@@ -28,53 +28,53 @@ Transfer-Encoding: chunked
   "name": "Margherita",
   "isGlutenFree": false
 }
-`
+```
 
 ## 2. Returned status code for CRUD Operations:
 
 ### Http GET Request:
-`
+```
 GET {{ContosoPizza_HostAddress}}/pizza/
 
 Code:
 HTTP/1.1 200 OK
-`
+```
 
 ### Http GET(id) Request:
-`
+```
 GET {{ContosoPizza_HostAddress}}/pizza/1
 
 Code:
 HTTP/1.1 200 OK
-`
+```
 
 ### Http POST:
-`
+```
 POST {{ContosoPizza_HostAddress}}/pizza/
 
 Code:
 HTTP/1.1 201 Created
-`
+```
 
 ### Http PUT:
-`
+```
 PUT {{ContosoPizza_HostAddress}}/pizza/4
 
 Code:
 HTTP/1.1 204 No Content
-`
+```
 
 ### Http DELETE:
-`
+```
 DELETE {{ContosoPizza_HostAddress}}/pizza/4
 
 Code:
 HTTP/1.1 204 No Content
-`
+```
 
 # Sales Summary function:
 
-`
+```
 var salesSummary = Path.Combine(currentDirectory, "salesSummary");
 Directory.CreateDirectory(salesSummary);
 
@@ -103,4 +103,4 @@ void CreateSummaryReport(IEnumerable<string> salesFiles, double totalSales, stri
 
     File.WriteAllText(reportPath, sb.ToString());
 }
-`
+```
