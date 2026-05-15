@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VK+M2Jv7afc=",
+  "dgSpecHash": "tHJYWIHAGsY=",
   "success": true,
-  "projectFilePath": "c:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\muril\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\muril\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
@@ -142,9 +142,9 @@
       "code": "NU1510",
       "level": "Warning",
       "message": "PackageReference Microsoft.Extensions.Validation will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
-      "projectPath": "c:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj",
       "warningLevel": 1,
-      "filePath": "c:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj",
+      "filePath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj",
       "libraryId": "Microsoft.Extensions.Validation",
       "targetGraphs": [
         "net10.0"
@@ -154,9 +154,9 @@
       "code": "NU1901",
       "level": "Warning",
       "message": "Package 'NuGet.Packaging' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "projectPath": "c:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj",
       "warningLevel": 1,
-      "filePath": "c:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj",
+      "filePath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj",
       "libraryId": "NuGet.Packaging",
       "targetGraphs": [
         "net10.0"
@@ -166,9 +166,9 @@
       "code": "NU1901",
       "level": "Warning",
       "message": "Package 'NuGet.Protocol' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "projectPath": "c:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj",
       "warningLevel": 1,
-      "filePath": "c:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj",
+      "filePath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj",
       "libraryId": "NuGet.Protocol",
       "targetGraphs": [
         "net10.0"

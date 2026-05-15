@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "c:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "c:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\muril\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\obj\\",
+        "outputPath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\VS Code\\cse325\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\muril\\AppData\\Roaming\\NuGet\\NuGet.Config"
