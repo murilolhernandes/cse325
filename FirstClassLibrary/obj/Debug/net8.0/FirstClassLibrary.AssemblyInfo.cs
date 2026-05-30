@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("This is a Razor component library with a cool modal window component.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.1.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.1.0+1dc7458509185378a5dcf4e3d159d6307127bbb0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.1.0+9fcd02654d451348d096cf0963402907fe6f9fc6")]
 [assembly: System.Reflection.AssemblyProductAttribute("FirstClassLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FirstClassLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.1.0.0")]
