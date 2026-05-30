@@ -172,6 +172,18 @@ public class GameState
 
 		TheBoard[landingSpot] = PlayerTurn;
 
+    var currentWinState = CheckForWin();
+    if (currentWinState == WinState.Player1_Wins)
+    {
+      Player1Streak++;
+      Player2Streak = 0;
+    }
+    else if (currentWinState == WinState.Player2_Wins)
+    {
+      Player2Streak++;
+      Player1Streak = 0;
+    }
+
 		return ConvertLandingSpotToRow(landingSpot);
 
 	}
@@ -181,6 +193,9 @@ public class GameState
 	public void ResetBoard() {
 		TheBoard = new List<int>(new int[42]);
 	}
+
+  public int Player1Streak { get; set; } = 0;
+  public int Player2Streak { get; set; } = 0;
 
 	private byte ConvertLandingSpotToRow(int landingSpot)
 	{
